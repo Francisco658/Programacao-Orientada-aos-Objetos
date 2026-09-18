@@ -1,0 +1,40 @@
+CompradorVendedor:António,antonio@gmail.com,antonio,123456789,Rua e Travessa do Paraíso
+CompradorVendedor:Tiago,tiago@gmail.com,tiago2,987654321,Rua dos Sete Céus
+CompradorVendedor:Miguel,miguel@gmail.com,miguel,124356879,Beco do Belo
+CompradorVendedor:José,jose@gmail.com,jose33,986754231,Rua do Açúcar
+CompradorVendedor:Duarte,duarte@gmail.com,duarte,987612345,Travessa da Amorosa
+Transportador:DHL,dhl@gmail.com,dhldhl,981273645,Rua da Alfândega,3,6,9,1.3,2.0,P,(VB * MLT * (1 + I)) * 0.9
+Transportador:CTT,ctt@gmail.com,cttctt,989898989,Rua do Arsenal,2,4,6,1.2,5.0,S,(VB * MLT * (1 + I)) * 0.95
+Transportador:Terceiro,terceiro@gmail.com,terceiro,122134438,Rua Augusta,3,5,7,1.2,7.0,S,(VB * MLT * (1 + I)) * 0.85
+Admin:Nestor,anr@di.uminho.pt,nestor
+Admin:Creissac,creissac@di.uminho.pt,creissac
+Mala:Mala1,Descricao de Qualidade 1,Gucci,20.2,2,António,DHL,Novo,0,10.2,15.0,Seda,2022,P
+Mala:Mala2,Descricao de Qualidade 2,Balenciaga,10.2,1,Tiago,CTT,Usado em Bom Estado,2,8.0,10.0,Nylon,2018,S
+Mala:Mala3,Descricao de Qualidade 3,Prada,15.0,1,Miguel,CTT,Usado em Estado Usável,4,5.0,20.0,Algodão,2012,S
+Mala:Mala4,Descricao de Qualidade 4,Valentino,16.5,1,José,DHL,Usado em Bom Estado,2,7.5,25.0,Tencel,2020,P
+Mala:Mala5,Descricao de Qualidade 5,Louis Vuitton,20.5,2,Duarte,Terceiro,Usado em Mau Estado,10,2.0,17.5,Poliéster,2015,S
+Mala:Mala6,Descricao de Qualidade 6,Dior,15.7,2,António,DHL,Usado em Muito Bom Estado,1,9.0,5.5,Seda,2017,P
+Mala:Mala7,Descricao de Qualidade 7,Fendi,16.9,3,Tiago,CTT,Novo,0,10.0,35.0,Nylon,2019,S
+Mala:Mala8,Descricao de Qualidade 8,Nike,25.0,3,Miguel,CTT,Novo,0,10.0,22.5,Algodão,2006,S
+Mala:Mala9,Descricao de Qualidade 9,Adidas,26.0,3,José,DHL,Novo,0,10.0,24.0,Tencel,2023,P
+Mala:Mala10,Descricao de Qualidade 10,Moncler,27.0,3,Duarte,Terceiro,Novo,0,10.0,11.5,Poliéster,2011,S
+Tshirt:Tshirt1,Descricao de Qualidade 1,Gucci,20.0,2,António,DHL,Novo,0,10.0,S,LISO,P
+Tshirt:Tshirt2,Descricao de Qualidade 2,Balenciaga,10.0,1,Tiago,CTT,Usado em Bom Estado,2,8.0,M,RISCAS,S
+Tshirt:Tshirt3,Descricao de Qualidade 3,Prada,15.0,1,Miguel,CTT,Usado em Estado Usável,4,5.0,L,PALMEIRAS,S
+Tshirt:Tshirt4,Descricao de Qualidade 4,Valentino,16.5,1,José,DHL,Usado em Bom Estado,2,7.5,XL,LISO,P
+Tshirt:Tshirt5,Descricao de Qualidade 5,Louis Vuitton,20.5,2,Duarte,Terceiro,Usado em Mau Estado,10,2.0,S,RISCAS,S
+Tshirt:Tshirt6,Descricao de Qualidade 6,Dior,15.7,2,António,DHL,Usado em Muito Bom Estado,1,9.0,M,PALMEIRAS,P
+Tshirt:Tshirt7,Descricao de Qualidade 7,Fendi,16.9,3,Tiago,CTT,Novo,0,10.0,L,LISO,S
+Tshirt:Tshirt8,Descricao de Qualidade 8,Nike,25.0,3,Miguel,CTT,Novo,0,10.0,XL,RISCAS,S
+Tshirt:Tshirt9,Descricao de Qualidade 9,Adidas,26.0,3,José,DHL,Novo,0,10.0,S,PALMEIRAS,P
+Tshirt:Tshirt10,Descricao de Qualidade 10,Moncler,27.0,3,Duarte,Terceiro,Novo,0,10.0,M,LISO,S
+Sapatilha:Sapatilha1,Descricao de Qualidade 1,Gucci,20.0,2,António,DHL,Novo,0,10.0,42,true,Red,2020-10-01,P
+Sapatilha:Sapatilha2,Descricao de Qualidade 2,Balenciaga,10.0,1,Tiago,CTT,Usado em Bom Estado,2,8.0,41,true,Blue,2019-10-01,S
+Sapatilha:Sapatilha3,Descricao de Qualidade 3,Prada,15.0,1,Miguel,CTT,Usado em Estado Usável,4,5.0,40,true,White,2018-10-01,S
+Sapatilha:Sapatilha4,Descricao de Qualidade 4,Valentino,16.5,1,José,DHL,Usado em Bom Estado,2,7.5,39,true,Black,2017-10-01,P
+Sapatilha:Sapatilha5,Descricao de Qualidade 5,Louis Vuitton,20.5,2,Duarte,Terceiro,Usado em Mau Estado,10,2.0,38,true,Green,2016-10-01,S
+Sapatilha:Sapatilha6,Descricao de Qualidade 6,Dior,15.7,2,António,DHL,Usado em Muito Bom Estado,1,9.0,37,false,Red,2015-10-01,P
+Sapatilha:Sapatilha7,Descricao de Qualidade 7,Fendi,16.9,3,Tiago,CTT,Novo,0,10.0,36,false,Blue,2014-10-01,S
+Sapatilha:Sapatilha8,Descricao de Qualidade 8,Nike,25.0,3,Miguel,CTT,Novo,0,10.0,37,false,White,2013-10-01,S
+Sapatilha:Sapatilha9,Descricao de Qualidade 9,Adidas,26.0,3,José,DHL,Novo,0,10.0,38,false,Black,2012-10-01,P
+Sapatilha:Sapatilha10,Descricao de Qualidade 10,Moncler,27.0,3,Duarte,Terceiro,Novo,0,10.0,39,false,Green,2011-10-01,S
